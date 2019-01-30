@@ -1,3 +1,3 @@
-rugby
-movies
-books
+- rugby
+- movies
+- books
